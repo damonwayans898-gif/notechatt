@@ -1,0 +1,2 @@
+# notechatt
+Conversas com ideias 
