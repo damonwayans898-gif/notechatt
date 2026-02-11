@@ -1,0 +1,8 @@
+{
+  "name": "NoteChat",
+  "description": "A feature-rich social network platform with AI-powered image editing, group management, and real-time news feed.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
